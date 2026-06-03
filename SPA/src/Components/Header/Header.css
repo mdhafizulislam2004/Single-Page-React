@@ -1,0 +1,12 @@
+nav a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: black;
+}
+
+.style{
+    border: 2px solid red;
+    border-radius: 30px;
+    padding: 5px;
+    max-width: 400px;
+}
